@@ -4,3 +4,5 @@ In this part, we consider a centralized server and several communication groups.
 In this case, the server must do the following:
 - Management of groups (creation, destruction of a group, insertion of a new member, deletion of a member, delivery of the list of the members of a group and their addresses ...)
 - Broadcast messages between the nodes offering a cosistant order to the reception.
+
+For more technicals information, check the "PART2 - French Technical Sheet" PDF uploaded in the repository.
